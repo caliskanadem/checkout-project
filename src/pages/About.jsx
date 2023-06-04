@@ -8,7 +8,7 @@ const About = () => {
           <img src="face-head.png" style={{ width: "300px" }} alt="adam" />
           <div>
             <h2>Hi, I'm Adem</h2>
-            <h3>I’m learning Frond-End Development Languages.</h3>
+            <h3>I’m learning Front-End Development Languages.</h3>
             <h4>I've already known JS, CSS, ReactNative, NodeJS...</h4>
             <h4>💬 You can ask me anything you want to know</h4>
           </div>
